@@ -28,3 +28,6 @@
 1) [bertosbd](https://github.com/bertosbd)
 2) [jedelwey](https://github.com/jedelwey)
 3) [LuisZ1](https://github.com/LuisZ1)
+
+## Spanish Translation
+1) [Chiffon](https://github.com/lchiffon)
